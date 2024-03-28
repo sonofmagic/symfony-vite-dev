@@ -12,5 +12,8 @@
   "license": "ISC",
   "volta": {
     "node": "20.9.0"
+  },
+  "devDependencies": {
+    "vite-plugin-symfony": "workspace:^"
   }
 }

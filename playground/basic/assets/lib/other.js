@@ -1,2 +1,2 @@
 console.log('other')
-export const msg = 'other';
+export const msg = 'other1111111';
